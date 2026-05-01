@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 环境变量（包含真实密钥）
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.log
+*.tmp
+/tmp/
+
+# 下载的图片（运行时生成）
+jd_img_*.png
+
+# OS
+.DS_Store
+Thumbs.db
